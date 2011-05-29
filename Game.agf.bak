@@ -5861,6 +5861,131 @@ return
                   <Sprite Slot="1342" Width="26" Height="79" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
                 </Sprites>
               </SpriteFolder>
+              <SpriteFolder Name="JudgeGrim">
+                <SubFolders />
+                <Sprites>
+                  <Sprite Slot="1195" Width="22" Height="77" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="1196" Width="22" Height="77" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="1197" Width="22" Height="77" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="1198" Width="22" Height="77" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="1199" Width="22" Height="77" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="1200" Width="25" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="1201" Width="25" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="1203" Width="25" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="1204" Width="25" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="1206" Width="25" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="1207" Width="25" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="1225" Width="25" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="1226" Width="25" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="1227" Width="25" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="1228" Width="25" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="1229" Width="25" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="1230" Width="25" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="1231" Width="25" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="1232" Width="25" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="1233" Width="25" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="1234" Width="25" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="1235" Width="25" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="1236" Width="25" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="1237" Width="22" Height="77" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="1238" Width="22" Height="77" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="1239" Width="22" Height="77" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="1240" Width="22" Height="77" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="1241" Width="22" Height="77" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="1242" Width="22" Height="77" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="1243" Width="22" Height="77" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="1244" Width="25" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="1245" Width="25" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="1246" Width="25" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="1247" Width="25" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="1248" Width="22" Height="77" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="1249" Width="22" Height="77" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="1250" Width="22" Height="77" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="1251" Width="22" Height="77" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="1252" Width="22" Height="77" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="1253" Width="22" Height="77" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
+                </Sprites>
+              </SpriteFolder>
+              <SpriteFolder Name="Staatsanwältin">
+                <SubFolders />
+                <Sprites>
+                  <Sprite Slot="1254" Width="26" Height="77" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="1255" Width="26" Height="77" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="1256" Width="26" Height="77" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="1257" Width="26" Height="77" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="1258" Width="26" Height="77" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="1259" Width="26" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="1260" Width="26" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="1261" Width="26" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="1262" Width="26" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="1263" Width="26" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="1264" Width="26" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="1265" Width="26" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="1266" Width="26" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="1267" Width="26" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="1268" Width="26" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="1269" Width="26" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="1270" Width="26" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="1271" Width="26" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="1272" Width="26" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="1273" Width="26" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="1274" Width="26" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="1275" Width="26" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="1276" Width="26" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="1277" Width="29" Height="77" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="1278" Width="29" Height="77" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="1279" Width="29" Height="77" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="1280" Width="29" Height="77" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="1281" Width="29" Height="77" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="1282" Width="26" Height="77" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="1283" Width="26" Height="77" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="1284" Width="26" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="1285" Width="26" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="1286" Width="26" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="1287" Width="26" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="1288" Width="29" Height="77" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
+                </Sprites>
+              </SpriteFolder>
+              <SpriteFolder Name="Anwalt">
+                <SubFolders />
+                <Sprites>
+                  <Sprite Slot="1289" Width="22" Height="77" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="1290" Width="22" Height="77" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="1291" Width="22" Height="77" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="1292" Width="22" Height="77" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="1293" Width="22" Height="77" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="1294" Width="25" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="1295" Width="25" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="1296" Width="25" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="1297" Width="25" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="1298" Width="25" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="1299" Width="25" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="1300" Width="25" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="1301" Width="25" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="1302" Width="25" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="1303" Width="25" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="1304" Width="25" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="1305" Width="25" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="1306" Width="25" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="1307" Width="25" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="1308" Width="25" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="1309" Width="25" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="1310" Width="25" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="1311" Width="25" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="1312" Width="22" Height="77" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="1313" Width="22" Height="77" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="1314" Width="22" Height="77" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="1315" Width="22" Height="77" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="1316" Width="22" Height="77" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="1317" Width="22" Height="77" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="1318" Width="22" Height="77" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="1319" Width="25" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="1320" Width="25" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="1321" Width="25" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="1322" Width="25" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="1323" Width="22" Height="77" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
+                </Sprites>
+              </SpriteFolder>
             </SubFolders>
             <Sprites />
           </SpriteFolder>
@@ -6786,133 +6911,15 @@ return
                   <Sprite Slot="656" Width="68" Height="3" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
                 </Sprites>
               </SpriteFolder>
+              <SpriteFolder Name="Küche">
+                <SubFolders />
+                <Sprites>
+                  <Sprite Slot="1347" Width="20" Height="20" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="1348" Width="19" Height="20" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
+                </Sprites>
+              </SpriteFolder>
             </SubFolders>
             <Sprites />
-          </SpriteFolder>
-          <SpriteFolder Name="cGrim1Sprites">
-            <SubFolders />
-            <Sprites>
-              <Sprite Slot="1195" Width="22" Height="77" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1196" Width="22" Height="77" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1197" Width="22" Height="77" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1198" Width="22" Height="77" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1199" Width="22" Height="77" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1200" Width="25" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1201" Width="25" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1203" Width="25" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1204" Width="25" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1206" Width="25" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1207" Width="25" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1225" Width="25" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1226" Width="25" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1227" Width="25" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1228" Width="25" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1229" Width="25" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1230" Width="25" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1231" Width="25" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1232" Width="25" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1233" Width="25" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1234" Width="25" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1235" Width="25" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1236" Width="25" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1237" Width="22" Height="77" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1238" Width="22" Height="77" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1239" Width="22" Height="77" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1240" Width="22" Height="77" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1241" Width="22" Height="77" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1242" Width="22" Height="77" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1243" Width="22" Height="77" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1244" Width="25" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1245" Width="25" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1246" Width="25" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1247" Width="25" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1248" Width="22" Height="77" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1249" Width="22" Height="77" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1250" Width="22" Height="77" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1251" Width="22" Height="77" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1252" Width="22" Height="77" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1253" Width="22" Height="77" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-            </Sprites>
-          </SpriteFolder>
-          <SpriteFolder Name="cStaatSprites">
-            <SubFolders />
-            <Sprites>
-              <Sprite Slot="1254" Width="26" Height="77" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1255" Width="26" Height="77" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1256" Width="26" Height="77" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1257" Width="26" Height="77" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1258" Width="26" Height="77" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1259" Width="26" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1260" Width="26" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1261" Width="26" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1262" Width="26" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1263" Width="26" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1264" Width="26" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1265" Width="26" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1266" Width="26" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1267" Width="26" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1268" Width="26" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1269" Width="26" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1270" Width="26" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1271" Width="26" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1272" Width="26" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1273" Width="26" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1274" Width="26" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1275" Width="26" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1276" Width="26" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1277" Width="29" Height="77" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1278" Width="29" Height="77" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1279" Width="29" Height="77" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1280" Width="29" Height="77" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1281" Width="29" Height="77" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1282" Width="26" Height="77" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1283" Width="26" Height="77" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1284" Width="26" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1285" Width="26" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1286" Width="26" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1287" Width="26" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1288" Width="29" Height="77" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-            </Sprites>
-          </SpriteFolder>
-          <SpriteFolder Name="cLawSprites">
-            <SubFolders />
-            <Sprites>
-              <Sprite Slot="1289" Width="22" Height="77" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1290" Width="22" Height="77" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1291" Width="22" Height="77" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1292" Width="22" Height="77" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1293" Width="22" Height="77" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1294" Width="25" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1295" Width="25" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1296" Width="25" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1297" Width="25" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1298" Width="25" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1299" Width="25" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1300" Width="25" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1301" Width="25" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1302" Width="25" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1303" Width="25" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1304" Width="25" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1305" Width="25" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1306" Width="25" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1307" Width="25" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1308" Width="25" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1309" Width="25" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1310" Width="25" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1311" Width="25" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1312" Width="22" Height="77" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1313" Width="22" Height="77" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1314" Width="22" Height="77" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1315" Width="22" Height="77" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1316" Width="22" Height="77" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1317" Width="22" Height="77" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1318" Width="22" Height="77" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1319" Width="25" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1320" Width="25" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1321" Width="25" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1322" Width="25" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1323" Width="22" Height="77" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-            </Sprites>
           </SpriteFolder>
         </SubFolders>
         <Sprites>
@@ -21059,7 +21066,7 @@ return
   <Component Name="MusicAndSpeech">
     <SpeechVoxFiles />
     <MusicVoxFiles>
-      <File Name="music\music60.ogg" FileTime="2007-11-25 10:53:55Z" />
+      <File Name="music\music60.ogg" FileTime="2010-06-13 18:47:06Z" />
     </MusicVoxFiles>
     <PamFiles />
   </Component>
