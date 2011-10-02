@@ -3602,7 +3602,7 @@
         <Interactions>
           <Event Index="0" />
           <Event Index="1" />
-          <Event Index="2" />
+          <Event Index="2">cCervantes_Talk</Event>
           <Event Index="3" />
           <Event Index="4">cCervantes_AnyClick</Event>
           <Event Index="5" />
