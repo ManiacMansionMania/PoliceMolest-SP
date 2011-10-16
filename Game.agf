@@ -3336,7 +3336,7 @@
         <Interactions>
           <Event Index="0" />
           <Event Index="1" />
-          <Event Index="2" />
+          <Event Index="2">cSunshine_Talk</Event>
           <Event Index="3" />
           <Event Index="4">cSunshine_AnyClick</Event>
           <Event Index="5" />
@@ -3526,7 +3526,7 @@
         <Interactions>
           <Event Index="0" />
           <Event Index="1" />
-          <Event Index="2" />
+          <Event Index="2">cStan_Talk</Event>
           <Event Index="3" />
           <Event Index="4">cStan_AnyClick</Event>
           <Event Index="5" />
@@ -3792,7 +3792,7 @@
         <Interactions>
           <Event Index="0" />
           <Event Index="1" />
-          <Event Index="2" />
+          <Event Index="2">cColtelli_Talk</Event>
           <Event Index="3" />
           <Event Index="4">cColtelli_AnyClick</Event>
           <Event Index="5" />
@@ -3830,7 +3830,7 @@
         <Interactions>
           <Event Index="0" />
           <Event Index="1" />
-          <Event Index="2" />
+          <Event Index="2">cAlki_Talk</Event>
           <Event Index="3" />
           <Event Index="4">cAlki_AnyClick</Event>
           <Event Index="5" />
