@@ -23,7 +23,7 @@
       <GUIAlphaStyle>Classic</GUIAlphaStyle>
       <WalkInLookMode>False</WalkInLookMode>
       <AntiGlideMode>False</AntiGlideMode>
-      <DebugMode>True</DebugMode>
+      <DebugMode>False</DebugMode>
       <InventoryCursors>True</InventoryCursors>
       <HandleInvClicksInScript>True</HandleInvClicksInScript>
       <DisplayMultipleInventory>False</DisplayMultipleInventory>
