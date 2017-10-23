@@ -9005,7 +9005,7 @@ return
                     <Image>335</Image>
                     <Flipped>False</Flipped>
                     <Delay>0</Delay>
-                    <Sound>0</Sound>
+                    <Sound>121</Sound>
                   </ViewFrame>
                 </Frames>
               </Loop>
@@ -21258,8 +21258,8 @@ return
             <SubFolders />
             <AudioClips>
               <AudioClip>
-                <SourceFileName>music\music1.mid</SourceFileName>
                 <ScriptName>aMusic1</ScriptName>
+                <SourceFileName>music\music1.mid</SourceFileName>
                 <Index>1</Index>
                 <Type>2</Type>
                 <BundlingType>InSeparateVOX</BundlingType>
@@ -22767,8 +22767,8 @@ return
     </AudioClips>
     <AudioClipTypes>
       <AudioClipType>
-        <TypeID>1</TypeID>
         <Name xml:space="preserve">Ambient Sound</Name>
+        <TypeID>1</TypeID>
         <MaxChannels>1</MaxChannels>
         <VolumeReductionWhileSpeechPlaying>0</VolumeReductionWhileSpeechPlaying>
         <CrossfadeClips>No</CrossfadeClips>
